@@ -21,5 +21,7 @@
 	<div>
 		<img src="https://github-readme-activity-graph.cyclic.app/graph?username=WangMinan&theme=vue" />
 	</div>
-
+	<h4>This week I am doing:</h4>
+	<!--START_SECTION:waka-->
+	<!--END_SECTION:waka-->
 </div>
