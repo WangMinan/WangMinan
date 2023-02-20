@@ -24,4 +24,13 @@
 </div>
 <h4 style="text-align=center;">This week I am doing:</h4>
 <!--START_SECTION:waka-->
+
+```text
+From: 12 February 2023 - To: 19 February 2023
+
+Total Time: 0 secs
+
+No activity tracked
+```
+
 <!--END_SECTION:waka-->
