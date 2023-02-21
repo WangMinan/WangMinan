@@ -25,4 +25,13 @@
 </div>
 
 <!--START_SECTION:waka-->
+
+```text
+From: 12 February 2023 - To: 19 February 2023
+
+Total Time: 0 secs
+
+No activity tracked
+```
+
 <!--END_SECTION:waka-->
