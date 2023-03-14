@@ -9,9 +9,9 @@
 	<hr>
 	<h4>I do well in:</h4>
 		<div>
-		<img src="https://img.shields.io/badge/-Vue.js-brightgreen" />
-		<img src="https://img.shields.io/badge/-Java-orange" />
-	</div>
+			<img src="https://img.shields.io/badge/-Java-orange" />
+			<img src="https://img.shields.io/badge/-Vue.js-brightgreen" />
+		</div>
 	<h4>My stats:</h4>
 	<div style="display: flex; justify-content: space-around;">
 		<img style="height: 180px;" src="https://github-readme-stats.vercel.app/api?username=WangMinan&show_icons=true" />
