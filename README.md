@@ -27,16 +27,16 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 09 March 2023 - To: 16 March 2023
+From: 10 March 2023 - To: 17 March 2023
 
-Total Time: 28 hrs 31 mins
+Total Time: 24 hrs 4 mins
 
-Java                  16 hrs 15 mins  >>>>>>>>>>>>>>-----------   56.99 %
-Vue.js                3 hrs 44 mins   >>>----------------------   13.12 %
-XML                   3 hrs 23 mins   >>>----------------------   11.90 %
-YAML                  2 hrs 10 mins   >>-----------------------   07.64 %
-HTTP Request          1 hr 3 mins     >------------------------   03.73 %
-Docker                41 mins         >------------------------   02.40 %
+Java                  13 hrs 11 mins  >>>>>>>>>>>>>>-----------   54.80 %
+Vue.js                3 hrs 38 mins   >>>>---------------------   15.14 %
+XML                   2 hrs 50 mins   >>>----------------------   11.80 %
+YAML                  1 hr 53 mins    >>-----------------------   07.83 %
+Docker                41 mins         >------------------------   02.84 %
+HTML                  21 mins         -------------------------   01.51 %
 ```
 
 <!--END_SECTION:waka-->
