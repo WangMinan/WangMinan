@@ -27,16 +27,16 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 20 March 2023 - To: 27 March 2023
+From: 21 March 2023 - To: 28 March 2023
 
-Total Time: 11 hrs 21 mins
+Total Time: 11 hrs 2 mins
 
-Java             8 hrs 11 mins   >>>>>>>>>>>>>>>>>>-------   72.19 %
-HTML             1 hr 23 mins    >>>----------------------   12.25 %
-JavaScript       30 mins         >------------------------   04.47 %
-XML              29 mins         >------------------------   04.28 %
-Vue.js           18 mins         >------------------------   02.75 %
-CSS              10 mins         -------------------------   01.49 %
+Java             8 hrs 11 mins   >>>>>>>>>>>>>>>>>>>------   74.18 %
+HTML             1 hr 10 mins    >>>----------------------   10.62 %
+JavaScript       30 mins         >------------------------   04.60 %
+XML              29 mins         >------------------------   04.39 %
+Vue.js           13 mins         >------------------------   02.04 %
+CSS              10 mins         -------------------------   01.53 %
 ```
 
 <!--END_SECTION:waka-->
