@@ -14,8 +14,8 @@
 		</div>
 	<h4>My stats:</h4>
 	<div style="display: flex; justify-content: space-around;">
-		<img style="height: 180px;" src="https://github-readme-stats-3w54e5o5z-wangminan.vercel.app/api?username=WangMinan&show_icons=true" />
-		<img style="height: 180px;" src="https://github-readme-stats-3w54e5o5z-wangminan.vercel.app/api/top-langs/?username=WangMinan&layout=compact" />
+		<img style="height: 180px;" src="https://github-readme-stats-wangminan.vercel.app/api?username=WangMinan&show_icons=true" />
+		<img style="height: 180px;" src="https://github-readme-stats-wangminan.vercel.app/api/top-langs/?username=WangMinan&layout=compact" />
 	</div>
 	<h4>My Contributions:</h4>
 	<div>
@@ -23,6 +23,7 @@
 	</div>
     <h4 style="text-align=center;">This week I am doing:</h4>
 </div>
+
 
 
 <!--START_SECTION:waka-->
