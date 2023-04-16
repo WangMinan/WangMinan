@@ -21,24 +21,4 @@
 	<div>
 		<img src="https://github-readme-activity-graph.cyclic.app/graph?username=WangMinan&theme=vue" />
 	</div>
-    <h4 style="text-align=center;">This week I am doing:</h4>
 </div>
-
-
-
-<!--START_SECTION:waka-->
-
-```text
-From: 07 April 2023 - To: 14 April 2023
-
-Total Time: 7 hrs 26 mins
-
-Java             2 hrs 56 mins   >>>>>>>>>>---------------   39.54 %
-XML              2 hrs 4 mins    >>>>>>>------------------   27.92 %
-YAML             47 mins         >>>----------------------   10.54 %
-Dart             29 mins         >>-----------------------   06.68 %
-HTML             19 mins         >------------------------   04.35 %
-Markdown         16 mins         >------------------------   03.72 %
-```
-
-<!--END_SECTION:waka-->
