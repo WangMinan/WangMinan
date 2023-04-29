@@ -25,8 +25,11 @@
        Recent works:
     </h4>
     <div style="display: flex; justify-content: space-around;">
-        <img src="https://github-readme-stats-wangminan.vercel.app/api/pin/?username=npu-carpooling-system-team&repo=carpooling-server" />
-        <img src="https://github-readme-stats-wangminan.vercel.app/api/pin/?username=npu-carpooling-system-team&repo=carpooling-client" />
+        <a href="https://github.com/npu-carpooling-system-team/carpooling-server">
+            <img src="https://github-readme-stats-wangminan.vercel.app/api/pin/?username=npu-carpooling-system-team&repo=carpooling-server" />
+        </a>
+        <a href="https://github.com/npu-carpooling-system-team/carpooling-client">
+            <img src="https://github-readme-stats-wangminan.vercel.app/api/pin/?username=npu-carpooling-system-team&repo=carpooling-client" />
+        </a>
     </div>
 </div>
-
