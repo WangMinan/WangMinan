@@ -21,4 +21,12 @@
 	<div>
 		<img src="https://github-readme-activity-graph.cyclic.app/graph?username=WangMinan&theme=vue" />
 	</div>
+    <h4>
+       Recent works:
+    </h4>
+    <div style="display: flex; justify-content: space-around;">
+        <img src="https://github-readme-stats-wangminan.vercel.app/api/pin/?username=npu-carpooling-system-team&repo=carpooling-server" />
+        <img src="https://github-readme-stats-wangminan.vercel.app/api/pin/?username=npu-carpooling-system-team&repo=carpooling-client" />
+    </div>
 </div>
+
