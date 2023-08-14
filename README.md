@@ -3,8 +3,9 @@
 		Hi,there! 👋
 	</h2>
 	<h3>
-		I am Wang Minan. 😊 <br>
-		A Chinese student majoring in software-engineering.
+		This is Wang Minan. 😊 <br>
+		I am a student of Northwestern Polytechnical University, majoring in software-engineering.
+		I am also an intern developing some tools for database migration in HW Cloud.
 	</h3>
 	<hr>
 	<h4>I do well in:</h4>
@@ -12,7 +13,7 @@
 			<img src="https://img.shields.io/badge/-Java-orange" />
 			<img src="https://img.shields.io/badge/-Vue.js-brightgreen" />
 		</div>
-	<h4>My stats:</h4>
+	<h4>My stats which is accurate only when I am developing with my own PC:</h4>
 	<div style="display: flex;">
 		<img style="height: 180px;" src="https://github-readme-stats-wangminan.vercel.app/api?username=WangMinan&show_icons=true&bg_color=1A202C&title_color=2F855A&icon_color=2F855A&text_color=ffffff" />
 		<img style="width:500px;height: 180px;" src="https://github-readme-stats.vercel.app/api/wakatime?username=wangminan&api_domain=waka.wangminan.me&bg_color=1A202C&title_color=2F855A&icon_color=2F855A&text_color=ffffff&custom_title=Wakapi%20Week%20Stats&layout=compact" />
