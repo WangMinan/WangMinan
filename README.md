@@ -3,8 +3,8 @@
 		Hi,there! 👋
 	</h2>
 	<h3>
-		This is Wang Minan. 😊 <br>
-		I am a student of Northwestern Polytechnical University, majoring in software-engineering.
+		This is Wang Minan. 😊 <br />
+		I am a student of Northwestern Polytechnical University, majoring in software-engineering. <br />
 		I am also an intern developing some tools for database migration in HW Cloud.
 	</h3>
 	<hr>
