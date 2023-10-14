@@ -5,7 +5,7 @@
 	<h3>
 		This is Wang Minan. 😊 <br />
 		I am a student of Northwestern Polytechnical University, majoring in software-engineering. <br />
-		I am also an intern developing some tools for database migration in HW Cloud.
+		I am also doing an internship as a database migration middleware developer intern in Huawei Cloud. <br/>
 	</h3>
 	<hr>
 	<h4>I do well in:</h4>
@@ -34,4 +34,3 @@
         </a>
     </div>
 </div>
-
