@@ -7,7 +7,11 @@
 		I am a student of Northwestern Polytechnical University, majoring in software-engineering. <br />
 		I am also doing an internship as a database migration middleware developer intern in Huawei Cloud. <br/>
 	</h3>
-	<hr>
+	<hr/>
+    <h3>
+        <a href="https://wangminan.github.io">Check my personal profile. 个人简历</a>
+    </h3>
+    <hr/>
 	<h4>I do well in:</h4>
 		<div>
 			<img src="https://img.shields.io/badge/-Java-orange" />
@@ -34,3 +38,4 @@
         </a>
     </div>
 </div>
+
