@@ -8,6 +8,11 @@
 		I am also doing an internship as a database migration middleware developer intern in Huawei Cloud. <br/>
 	</h3>
 	<hr/>
+	<h3>
+		这里是王旻安. 😊 <br />
+		西北工业大学软件工程大四学生 <br />
+		目前在华为云计算公司数据库服务产品部DRS(数据复制服务)开发团队实习。 <br/>
+	</h3>
     <h3>
         <a href="https://wangminan.github.io">Check my personal profile. 个人简历</a>
     </h3>
