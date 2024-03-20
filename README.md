@@ -18,12 +18,13 @@
     </h3>
     <hr/>
 	<h4>I am familiar with the following technologies:</h4>
-		<div>
-			<img src="https://img.shields.io/badge/-Java-orange" />
-            <img src="https://img.shields.io/badge/-MySQL-blue" />
-			<img src="https://img.shields.io/badge/-Vue.js-brightgreen" />
-		</div>
+	<div>
+        <img src="https://img.shields.io/badge/-Java-orange" />
+        <img src="https://img.shields.io/badge/-MySQL-blue" />
+        <img src="https://img.shields.io/badge/-Vue.js-brightgreen" />
+	</div>
 	<h4>My stats (which is accurate only when I am developing with my own PC):</h4>
+    <div>
 		<picture>
 			<source
 				srcset="https://github-readme-stats-wangminan.vercel.app/api?username=wangminan&show_icons=true&theme=dark"
@@ -43,13 +44,13 @@
 			<img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/wangminan/wangminan/output/github-contribution-grid-snake.svg">
 		</picture>
 	</div>
-    <h4>
-       Recent projects under development:
-    </h4>
-    <div style="display: flex; justify-content: space-around;">
-        <a href="https://github.com/WangMinan/Arktouros">
-            <img src="https://github-readme-stats-wangminan.vercel.app/api/pin/?username=WangMinan&repo=Arktouros" />
-        </a>
-    </div>
+	<h4>
+	   Recent projects under development:
+	</h4>
+	<div style="display: flex; justify-content: space-around;">
+	    <a href="https://github.com/WangMinan/Arktouros">
+	        <img src="https://github-readme-stats-wangminan.vercel.app/api/pin/?username=WangMinan&repo=Arktouros" />
+	    </a>
+	</div>
 </div>
 
