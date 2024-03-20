@@ -24,12 +24,24 @@
 			<img src="https://img.shields.io/badge/-Vue.js-brightgreen" />
 		</div>
 	<h4>My stats (which is accurate only when I am developing with my own PC):</h4>
-	<div style="display: flex;">
-		<img style="height: 180px;" src="https://github-readme-stats-wangminan.vercel.app/api?username=WangMinan&show_icons=true&bg_color=1A202C&title_color=2F855A&icon_color=2F855A&text_color=ffffff" />
+		<picture>
+			<source
+				srcset="https://github-readme-stats-wangminan.vercel.app/api?username=wangminan&show_icons=true&theme=dark"
+				media="(prefers-color-scheme: dark)"
+			/>
+			<source
+				srcset="https://github-readme-stats-wangminan.vercel.app/api?username=wangminan&show_icons=true"
+				media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+			/>
+			<img src="https://github-readme-stats-wangminan.vercel.app/api?username=wangminan&show_icons=true" />
+		</picture>
 	</div>
-	<h4>Recent Activities:</h4>
 	<div>
-		<img src="https://github-readme-activity-graph.vercel.app/graph?username=WangMinan&theme=vue" />
+		<picture>
+			<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/wangminan/wangminan/output/github-contribution-grid-snake-dark.svg">
+			<source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/wangminan/wangminan/output/github-contribution-grid-snake.svg">
+			<img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/wangminan/wangminan/output/github-contribution-grid-snake.svg">
+		</picture>
 	</div>
     <h4>
        Recent projects under development:
