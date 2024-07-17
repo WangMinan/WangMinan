@@ -30,7 +30,7 @@
 		<a href="https://wangminan.github.io">Check my personal profile here. 在此查看我的个人简历</a>
 	</h3>
 	<hr />
-	<h4>I am familiar with the following technologies:</h4>
+	<h4>I am familiar with the following languages and skills:</h4>
 	<div>
 		<img src="https://img.shields.io/badge/-Java-orange" />
 		<img src="https://img.shields.io/badge/-MySQL-blue" />
