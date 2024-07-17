@@ -2,32 +2,38 @@
 	<h2>
 		Hi,there! 👋
 	</h2>
-	<div class="lr-container"
-		style="display: flex;flex-wrap: wrap;width: 100%;margin: 0 auto;padding: 20px; text-align: left;">
-		<div class="left-column"
-			style="border-right: 2px solid #ccc;flex: 1;min-width: 300px;box-sizing: border-box;padding: 20px;margin: 10px;">
-			<p>This is Wang Minan 😊</p>
-			<p>First-year software engineering student at the School of Software, Northwestern Polytechnical University
-			</p>
-			<ul>
-				<li>2024.6-2024.7 Commercial Aircraft Corporation of China Shanghai Aviation Industry (Group) Co., Ltd.
-					Electromagnetic CAE Group Internship</li>
-				<li>2024.6-2024.7 Huawei Cloud Computing Company Database Service Product Department <a
-						href="https://www.huaweicloud.com/product/drs.html"
-						style="text-decoration: none; color: #5194F0;"> DRS (Data
-						Replication Service) </a> MySQL Group Java Middleware Development Internship</li>
-			</ul>
-		</div>
-		<div class="right-column" style="flex: 1;min-width: 300px;box-sizing: border-box;padding: 20px;margin: 10px;">
-			<p>这里是王旻安 😊</p>
-			<p>西北工业大学软件学院软件工程研一学生</p>
-			<ul>
-				<li>2024.6-2024.7 中国商飞上海航空工业(集团)有限公司 电磁CAE组 实习</li>
-				<li>2023.7-2024.1 华为云计算公司数据库服务产品部<a href="https://www.huaweicloud.com/product/drs.html"
-						style="text-decoration: none; color: #5194F0;">DRS(数据复制服务)</a>MySQL组 Java中间件开发实习</li>
-			</ul>
-		</div>
-	</div>
+	<table style="width: 80%">
+		<tr>
+			<td style="width: 50%; vertical-align: top; border-collapse: separate; border-spacing: 20px;">
+				<div class="left-column">
+					<p>This is Wang Minan 😊</p>
+					<p>First-year software engineering student at the School of Software, Northwestern Polytechnical
+						University
+					</p>
+					<ul>
+						<li>2024.6-2024.7 Commercial Aircraft Corporation of China Shanghai Aviation Industry (Group)
+							Co., Ltd.
+							Electromagnetic CAE Group Internship</li>
+						<li>2024.6-2024.7 Huawei Cloud Computing Company Database Service Product Department <a
+								href="https://www.huaweicloud.com/product/drs.html"
+								style="text-decoration: none; color: #5194F0;"> DRS (Data
+								Replication Service) </a> MySQL Group Java Middleware Development Internship</li>
+					</ul>
+				</div>
+			</td>
+			<td style="width: 50%; vertical-align: top;">
+				<div class="right-column">
+					<p>这里是王旻安 😊</p>
+					<p>西北工业大学软件学院软件工程研一学生</p>
+					<ul>
+						<li>2024.6-2024.7 中国商飞上海航空工业(集团)有限公司 电磁CAE组 实习</li>
+						<li>2023.7-2024.1 华为云计算公司数据库服务产品部<a href="https://www.huaweicloud.com/product/drs.html"
+								style="text-decoration: none; color: #5194F0;">DRS(数据复制服务)</a>MySQL组 Java中间件开发实习</li>
+					</ul>
+				</div>
+			</td>
+		</tr>
+	</table>
 	<h3>
 		<a href="https://wangminan.github.io">Check my personal profile here. 在此查看我的个人简历</a>
 	</h3>
