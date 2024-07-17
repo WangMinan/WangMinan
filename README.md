@@ -7,7 +7,8 @@
 		<div class="left-column"
 			style="border-right: 2px solid #ccc;flex: 1;min-width: 300px;box-sizing: border-box;padding: 20px;margin: 10px;">
 			<p>This is Wang Minan 😊</p>
-			<p>First-year software engineering student at the School of Software, Northwestern Polytechnical University</p>
+			<p>First-year software engineering student at the School of Software, Northwestern Polytechnical University
+			</p>
 			<ul>
 				<li>2024.6-2024.7 Commercial Aircraft Corporation of China Shanghai Aviation Industry (Group) Co., Ltd.
 					Electromagnetic CAE Group Internship</li>
@@ -37,7 +38,6 @@
 		<img src="https://img.shields.io/badge/-MySQL-blue" />
 		<img src="https://img.shields.io/badge/-Vue.js-brightgreen" />
 	</div>
-
 	<div>
 		<picture>
 			<source media="(prefers-color-scheme: dark)"
