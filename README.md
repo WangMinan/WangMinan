@@ -27,7 +27,7 @@
 		</div>
 	</div>
 	<h3>
-		<a href="https://wangminan.github.io">Check my personal profile here. 在此查看我的个人简历</a>
+		<a href="README.pdf">Check my personal profile here. 在此查看我的个人简历</a>
 	</h3>
 	<hr />
 	<h4>I am familiar with the following languages and skills:</h4>
@@ -50,16 +50,16 @@
 		Recent projects under development:
 	</h4>
 	<div style="display: flex; justify-content: space-around;">
-		<a href="https://github.com/WangMinan/Arktouros">
+		<a href="https://github.com/WangMinan/arktouros">
 			<picture>
 				<source
-					srcset="https://github-readme-stats-wangminan.vercel.app/api/pin/?username=WangMinan&repo=Arktouros&theme=dark"
+					srcset="https://github-readme-stats-wangminan.vercel.app/api/pin/?username=WangMinan&repo=arktouros&theme=dark"
 					media="(prefers-color-scheme: dark)" />
 				<source
-					srcset="https://github-readme-stats-wangminan.vercel.app/api/pin/?username=WangMinan&repo=Arktouros"
+					srcset="https://github-readme-stats-wangminan.vercel.app/api/pin/?username=WangMinan&repo=arktouros"
 					media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
 				<img
-					src="https://github-readme-stats-wangminan.vercel.app/api/pin/?username=WangMinan&repo=Arktouros" />
+					src="https://github-readme-stats-wangminan.vercel.app/api/pin/?username=WangMinan&repo=arktouros" />
 			</picture>
 		</a>
 	</div>
