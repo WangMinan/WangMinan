@@ -8,7 +8,7 @@
         <div>
             <p>This is Wang Minan 😊</p>
             <p>
-                A first-year graduate student at the Software Engineering Department of the School of Software, Northwestern Polytechnical University (083500), Cloud Software and Intelligent Decision-making Laboratory.
+                A second-year graduate student at the Software Engineering Department of the School of Software, Northwestern Polytechnical University (083500), Cloud Software and Intelligent Decision-making Laboratory.
             </p>
             <ul>
                 <li>2024.6-2024.7 Commercial Aircraft Corporation of China Shanghai Aviation Industry (Group) Co., Ltd.
