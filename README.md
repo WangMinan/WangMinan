@@ -7,22 +7,26 @@
     <div>
         <div>
             <p>This is Wang Minan 😊</p>
-            <p>
-                A second-year graduate student at the Software Engineering Department of the School of Software, Northwestern Polytechnical University (083500), Cloud Software and Intelligent Decision-making Laboratory.
-            </p>
+            <p>Second-year master's student in Software Engineering (083500), School of Software, Northwestern Polytechnical University; Cloud Software and Intelligent Decision-making Laboratory.</p>
+            <p>A Java developer from the "old-school" era, with solid knowledge of Java data development and JVM internals, and extensive experience operating in offline intranet environments.</p>
+            <p>Skilled in MySQL binlog parsing and replication workflows, with a practical understanding of distributed relational database principles.</p>
             <ul>
+                <li>2026.5-2026.8 ByteDance China Transactions & Advertising E-commerce Growth Backend - Golang Development Internship</li>
                 <li>2024.6-2024.7 Commercial Aircraft Corporation of China Shanghai Aviation Industry (Group) Co., Ltd.
                     Electromagnetic CAE Group - Internship</li>
-                <li>2024.6-2024.7 Huawei Cloud Computing Company Database Service Product Department <a
+                <li>2023.7-2024.1 Huawei Cloud Computing Company Database Service Product Department <a
                         href="https://www.huaweicloud.com/product/drs.html"
-                        style="text-decoration: none; color: #5194F0;">DRS (Data Replication Service) </a> 
-                        MySQL Group - Java Middleware Development Internship</li>
+                        style="text-decoration: none; color: #5194F0;">DRS (Data Replication Service)</a> MySQL Group - Java Middleware Development Internship</li>
             </ul>
         </div>
+        <hr/>
         <div>
             <p>这里是王旻安 😊</p>
-            <p>西北工业大学软件学院软件工程专业(083500)，云软件与智能决策实验室，研二学生</p>
+            <p>西北工业大学软件学院软件工程专业(083500)，云软件与智能决策实验室，研二学生（但多年一线开发与中型软件架构经验）</p>
+            <p>从古法编程的田园牧歌时代走来的Javaer，深入掌握Java数开与JVM有关知识，有丰富的离线内网环境运维经验</p>
+            <p>熟练掌握MySQL Binlog解析与数据复制流程，对分布式关系型数据库的原理有一定认知</p>
             <ul>
+                <li>2026.5-2026.8 字节跳动 中国交易与广告 电商增长服务端 - Golang开发实习</li>
                 <li>2024.6-2024.7 中国商飞上海航空工业(集团)有限公司 电磁CAE组 - 实习</li>
                 <li>2023.7-2024.1 华为云计算公司数据库服务产品部<a href="https://www.huaweicloud.com/product/drs.html"
                         style="text-decoration: none; color: #5194F0;">DRS(数据复制服务)</a>MySQL组 - Java中间件开发实习</li>
@@ -31,16 +35,6 @@
         <div>
             <a href="README.pdf">View my complete resume here. 在此查看我完整的的个人简历</a>
         </div>
-    </div>
-    <div style="display: flex; justify-content: space-arount;">
-        <p>
-            <b>I am familiar with the following languages and skills:</b>
-        </p>
-        <p style="text-align: center;">
-            <img src="https://img.shields.io/badge/-Java-orange" />
-            <img src="https://img.shields.io/badge/-MySQL-blue" />
-            <img src="https://img.shields.io/badge/-Vue.js-brightgreen" />
-        </p>
     </div>
     <div>
         <picture>
