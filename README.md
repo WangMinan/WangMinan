@@ -7,7 +7,10 @@
     <div>
         <div>
             <p>This is Wang Minan 😊</p>
-            <p>Second-year master's student in Software Engineering (083500), School of Software, Northwestern Polytechnical University; Cloud Software and Intelligent Decision-making Laboratory.</p>
+            <p>
+                Golang for a living, while java for my life.
+            </p>
+            <p>Second-year master's student (However, years of experience in core development and medium-sized software architecture for front-line projects) in Software Engineering (083500), School of Software, Northwestern Polytechnical University; Cloud Software and Intelligent Decision-making Laboratory (Also known for 'LAB418').</p>
             <p>A Java developer from the "old-school" era, with solid knowledge of Java data development and JVM internals, and extensive experience operating in offline intranet environments.</p>
             <p>Skilled in MySQL binlog parsing and replication workflows, with a practical understanding of distributed relational database principles.</p>
             <ul>
@@ -22,7 +25,8 @@
         <hr/>
         <div>
             <p>这里是王旻安 😊</p>
-            <p>西北工业大学软件学院软件工程专业(083500)，云软件与智能决策实验室，研二学生（但多年一线开发与中型软件架构经验）</p>
+            <p>Golang是工作，Java是生活。</p>
+            <p>西北工业大学软件学院软件工程专业(083500)，云软件与智能决策实验室(一般称为‘418实验室’)，研二学生(但多年一线项目核心开发与中型软件架构经验)</p>
             <p>从古法编程的田园牧歌时代走来的Javaer，深入掌握Java数开与JVM有关知识，有丰富的离线内网环境运维经验</p>
             <p>熟练掌握MySQL Binlog解析与数据复制流程，对分布式关系型数据库的原理有一定认知</p>
             <ul>
@@ -47,3 +51,4 @@
         </picture>
     </div>
 </div>
+
